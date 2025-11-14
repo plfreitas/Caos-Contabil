@@ -30,3 +30,9 @@ A correção foi realizada através da implementação de um **Mutex** para gara
 
 Após a correção, o programa sempre finaliza com o saldo exato, independentemente da ordem de execução das threads:
 
+
+## 🛠️ Tecnologias Utilizadas
+
+*   **Linguagem:** C
+*   **API de Concorrência:** Windows API (Threads e Mutex)
+*   **Conceitos:** Condição de Corrida, Sessão Crítica, Sincronização de Threads.
